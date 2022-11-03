@@ -3,7 +3,7 @@
 
 # NearPoint
 
-<img src="https://i.ibb.co/gywgy2L/logoETH.png" width="70%">
+<img src="https://i.ibb.co/3ftdkk9/logoETH.png" width="70%">
 
 Welcome, this is our project for NEAR MetaBUILD.
 
@@ -49,7 +49,7 @@ NearPoint is a Mobile-First wallet, cash out ramp and Point of Sale Superapp. We
 
 System's Architecture:
 
-<img src="https://i.ibb.co/C65RKr1/scheme-drawio.png">
+<img src="https://i.ibb.co/GxFtjKN/sheme-drawio.png">
 
 - All Aurora transactions are controlled through [web3.js](https://web3js.readthedocs.io/en/v1.8.0/) and [WalletConnect](https://walletconnect.com/) on mainnet.
 
@@ -57,50 +57,50 @@ System's Architecture:
 
 # Main App Screens:
 
-<img src="https://i.ibb.co/s6HLSPW/vlcsnap-2022-09-17-15h56m52s202.png" width="32%">
+<img src="https://i.ibb.co/7JPdRSz/vlcsnap-2022-11-03-19h29m01s615.png" width="32%">
 
 - In turn, through Rapyd and Aurora we can have total control of the movements and transactions of our account in both Crypto and Fiat.
 
 - Crypto
 
- <img src="https://i.ibb.co/09HHKWX/vlcsnap-2022-09-17-15h57m11s292.png" width="32%"> <img src="https://i.ibb.co/NSHhm3L/vlcsnap-2022-09-17-15h57m19s140.png" width="32%"> <img src="https://i.ibb.co/B2vQ7TN/vlcsnap-2022-09-17-15h58m20s458.png" width="32%">
+ <img src="https://i.ibb.co/D4LmrcP/vlcsnap-2022-11-03-19h29m24s917.png" width="32%"> <img src="https://i.ibb.co/JKbZQkh/vlcsnap-2022-11-03-19h29m33s530.png" width="32%"> <img src="https://i.ibb.co/2nLWvsq/vlcsnap-2022-11-03-19h31m29s005.png" width="32%">
 
 - Fiat
 
-<img src="https://i.ibb.co/1vMwQDg/vlcsnap-2022-09-17-16h07m47s762.png" width="32%"> <img src="https://i.ibb.co/yP8j55N/vlcsnap-2022-09-17-16h08m03s209.png" width="32%"> <img src="https://i.ibb.co/hFPLBYk/vlcsnap-2022-09-17-16h09m10s480.png" width="32%">
+<img src="https://i.ibb.co/1RnjrMc/vlcsnap-2022-11-03-19h29m48s800.png" width="32%"> <img src="https://i.ibb.co/HGRPTfB/vlcsnap-2022-11-03-19h30m02s699.png" width="32%"> <img src="https://i.ibb.co/JF4w64s/vlcsnap-2022-11-03-19h30m18s409.png" width="32%">
 
 - The KYC of our application is controlled by Rapyd and to confirm it, the documents must match the user's registration.
   
-  <img src="https://i.ibb.co/C8Ttz4X/vlcsnap-2022-09-17-16h05m43s114.png" width="32%">
+  <img src="https://i.ibb.co/5FMXHGD/vlcsnap-2022-11-03-19h31m59s014.png" width="32%">
 
 - Through Aurora we can also make transfers directly between Aurora Wallets.
 
   - First we must click on the pay button.
   
-    <img src="https://i.ibb.co/ZXz5ZdR/vlcsnap-2022-09-17-15h57m11s292.png" width="32%">
+    <img src="https://i.ibb.co/6PDqcBC/vlcsnap-2022-11-03-19h29m24s917.png" width="32%">
 
   - We must select if we want to Recieve or Scan/NFC (by default the app opens the Recieve option). In the case of this main app, payment is allowed through NFC to our POS as part of the adoption of this technology in traditional payments.
   
-    <img src="https://i.ibb.co/NSHhm3L/vlcsnap-2022-09-17-15h57m19s140.png" width="32%">
-    <img src="https://i.ibb.co/B2vQ7TN/vlcsnap-2022-09-17-15h58m20s458.png" width="32%">
+    <img src="https://i.ibb.co/cThWhyB/vlcsnap-2022-11-03-19h35m11s640.png" width="32%">
+    <img src="https://i.ibb.co/2nLWvsq/vlcsnap-2022-11-03-19h31m29s005.png" width="32%">
 
   - In the case of Scan/NFC, we open a QR scanner which will take us through a very simple transfer process, each transaction needs biometric or pin confirmation.
 
-    <img src="https://i.ibb.co/Byr5Jwj/vlcsnap-2022-09-17-15h58m28s605.png" width="32%">
-    <img src="https://i.ibb.co/b7sJrVR/vlcsnap-2022-09-17-15h56m42s118.png" width="32%">
-    <img src="https://i.ibb.co/C2ZjrvS/vlcsnap-2022-09-17-16h28m49s373.png" width="32%">
+    <img src="https://i.ibb.co/dGXVm65/vlcsnap-2022-11-03-19h33m24s285.png" width="32%">
+    <img src="https://i.ibb.co/bbQM0Kz/vlcsnap-2022-11-03-19h33m46s029.png" width="32%">
+    <img src="https://i.ibb.co/Y0LTtv5/vlcsnap-2022-10-29-10h50m51s965.png" width="32%">
 
-  - Transaction if you want to check: https://aurorascan.dev/address/
+  - Transaction if you want to check: https://aurorascan.dev/address/0xa2ce856e413e2fc6e7e924b212932f53f0a6a205
   
-    <img src="https://i.ibb.co/pnP1FHz/Screenshot-20220812-023951.png" width="32%">
+    <img src="https://i.ibb.co/z8p30P3/vlcsnap-2022-11-03-19h34m22s052.png" width="32%">
 
 - We carry out Aurora and Fiat transfers by coordinating the services of Aurora and Rapyd. Transferring the equivalent of Aurora or USD currency from NearPoint Master accounts.
 
-  <img src="https://i.ibb.co/JtJk3Mk/vlcsnap-2022-09-17-16h30m10s218.png" width="32%">
+  <img src="https://i.ibb.co/dLGcn8t/vlcsnap-2022-11-03-19h35m41s268.png" width="32%">
 
 - At the same time, we can obtain a virtual card from the Rapyd API to be able to spend the money from our Fiat account directly.
 
-  <img src="https://i.ibb.co/yP8j55N/vlcsnap-2022-09-17-16h08m03s209.png" width="32%">
+  <img src="https://i.ibb.co/HGRPTfB/vlcsnap-2022-11-03-19h30m02s699.png" width="32%">
 
 - Additionally, we can make a Card Debit deposit from our Fiat account to a any debit cards.
 
@@ -108,7 +108,7 @@ System's Architecture:
 
 - All transfers made in the demos and during development can be consulted in the explorer.
 
-  https://aurorascan.dev/address/
+  https://aurorascan.dev/address/0xa2ce856e413e2fc6e7e924b212932f53f0a6a205
 
 - This is a screenshot of our backend in Rapyd.
 
@@ -120,31 +120,31 @@ System's Architecture:
 
 - The POS allows us to see the Crypto and Fiat balances received along with the list of transactions just like the Main App.
 
-  <img src="https://i.ibb.co/V2jf9PF/image.png" width="32%">
-  <img src="https://i.ibb.co/bHpZWvx/image.png" width="32%">
+  <img src="https://i.ibb.co/Z17HqMP/Screenshot-20221103-193609.png" width="32%">
+  <img src="https://i.ibb.co/8szXM9t/Screenshot-20221103-193616.png" width="32%">
 
 - One of the most important processes is being able to make payments at the POS through WalletConnect, being this the pillar of our device.
 
-  <img src="https://i.ibb.co/LpbfQVZ/vlcsnap-2022-09-17-16h00m05s515.png" width="32%" >
-  <img src="https://i.ibb.co/c22DdtH/vlcsnap-2022-09-17-16h00m15s119.png" width="32%">
-  <img src="https://i.ibb.co/rFKzS0N/vlcsnap-2022-09-17-16h00m21s104.png" width="32%">
+  <img src="https://i.ibb.co/1qCYNKt/Screenshot-20221103-193619.png" width="32%" >
+  <img src="https://i.ibb.co/7Vrzntg/Screenshot-20221103-193626.png" width="32%">
+  <img src="https://i.ibb.co/9bxQrhp/Screenshot-20221103-193646.png" width="32%">
 
 - When the reference is created by QR, it can be paid through any wallet compatible with WalletConnect, however our Main App also allows payment through NFC.
 
   - Main App / POS App:
   
-    <img src="https://i.ibb.co/NVgdVv4/vlcsnap-2022-09-17-16h00m31s232.png" width="32%">
-    <img src="https://i.ibb.co/wwdhKL3/vlcsnap-2022-09-17-16h00m36s741.png" width="32%">
+    <img src="https://i.ibb.co/NLjhXP3/vlcsnap-2022-11-03-19h37m21s221.png" width="32%">
+    <img src="https://i.ibb.co/T8syBqR/vlcsnap-2022-11-03-19h37m25s198.png" width="32%">
 
 - Once the reference payment has been made, we will be able to see the confirmed and verified messages.
 
 - In addition, we provide a printed receipt with the URL where you can check your transaction.
 
-  <img src="https://i.ibb.co/3sQRwqS/image.png" width="32%">
+  <img src="https://i.ibb.co/SXh3FKV/vlcsnap-2022-11-03-19h37m48s182.png" width="32%">
 
 - Let's print!
 
-<img src="./Images/gifimg.gif">
+<img src="./Img/gifPrint.gif">
 
 # Current state and what's next
 
