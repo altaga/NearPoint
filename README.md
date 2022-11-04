@@ -13,9 +13,9 @@ Welcome, this is our project for NEAR MetaBUILD.
 
 #### APK: 
 
-Main App : /
+Main App : [APK](./NearPoint-Wallet-APK/app-release.apk)
 
-POS App : /
+POS App : [APK](./NearPoint-POS-APK/app-release.apk)
 
 ## Here is our main demo video: 
 
