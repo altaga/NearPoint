@@ -49,7 +49,7 @@ NearPoint is a Mobile-First wallet, cash out ramp and Point of Sale Superapp. We
 
 System's Architecture:
 
-<img src="https://i.ibb.co/XSm6ChV/sheme-drawio-1.png">
+<img src="https://i.ibb.co/x7km5d6/sheme-drawio-2.png">
 
 - All Aurora transactions are controlled through [web3.js](https://web3js.readthedocs.io/en/v1.8.0/) and [WalletConnect](https://walletconnect.com/) on mainnet.
 
