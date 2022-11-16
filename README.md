@@ -88,7 +88,7 @@ System's Architecture:
 
     <img src="https://i.ibb.co/dGXVm65/vlcsnap-2022-11-03-19h33m24s285.png" width="32%">
     <img src="https://i.ibb.co/bbQM0Kz/vlcsnap-2022-11-03-19h33m46s029.png" width="32%">
-    <img src="https://i.ibb.co/Y0LTtv5/vlcsnap-2022-10-29-10h50m51s965.png" width="32%">
+    <img src="https://i.ibb.co/DCyKttf/image.png" width="32%">
 
   - Transaction if you want to check: https://aurorascan.dev/address/0xa2ce856e413e2fc6e7e924b212932f53f0a6a205
   
